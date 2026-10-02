@@ -5,7 +5,7 @@ import { GraduationCap, Briefcase, Languages } from "lucide-react";
 
 const stats = [
   { n: "20+", l: "Full-stack projects" },
-  { n: "5", l: "Months internship" },
+  { n: "1+", l: "Year internship" },
   { n: "10+", l: "Technologies" },
 ];
 
